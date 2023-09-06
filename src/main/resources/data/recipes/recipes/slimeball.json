@@ -6,11 +6,11 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:slimeball"
+      "item": "minecraft:slime_ball"
     }
   },
   "result": {
-    "item": "minecraft:slimeball",
+    "item": "minecraft:slime_ball",
     "count": 8
   }
 }
